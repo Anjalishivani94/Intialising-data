@@ -1,0 +1,2 @@
+# Intialising-data
+Initializing detector 
